@@ -38,7 +38,7 @@ class _FingerprintLockScreenState extends State<FingerprintLockScreen> {
       Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) => HomePage()));
     }
   }
-
+// rebuild
   @override
   void initState() {
     super.initState();
