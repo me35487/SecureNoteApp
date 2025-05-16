@@ -52,3 +52,4 @@ class _FingerprintLockScreenState extends State<FingerprintLockScreen> {
     );
   }
 }
+// just trigger rebuild
