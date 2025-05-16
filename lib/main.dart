@@ -5,7 +5,7 @@ import 'home_page.dart';
 void main() {
   runApp(NoteApp());
 }
-
+// trigger again
 class NoteApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
