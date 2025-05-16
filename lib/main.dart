@@ -15,7 +15,7 @@ class NoteApp extends StatelessWidget {
     );
   }
 }
-
+// rebuild v2
 class FingerprintLockScreen extends StatefulWidget {
   @override
   _FingerprintLockScreenState createState() => _FingerprintLockScreenState();
